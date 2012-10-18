@@ -1,11 +1,21 @@
-parahalf
-========
+# parahalf
 
-introduction
-------------
+### introduction
 
-Im out of words for the moment, but heres some screenshots and a movie that should probably explain what this project does:
+parahalf is a drop-down terminal/application host, like [tilda](https://github.com/tsloughter/tilda/) or [guake](http://guake.org/) for windows.  
+it also supports docking other applications like spotify and notepad.  
 
-![parahalf settings](http://i.imgur.com/duRBw.png "Settings screen")
+note that it is still buggy and there are some quirks to fix. i develop this in my spare time, so excuse the poor code and lack of comments. hopefully i will fix that all of that someday.
 
-[youtube.com/watch?v=yREjJqEZnM0](http://www.youtube.com/watch?v=yREjJqEZnM0).
+### compiling
+
+the project relies on 
+
+### screenshots
+
+![parahalf settings](http://i.imgur.com/duRBw.png "the settings screen")  
+the settings screen
+
+### videos
+
+[A short demo video (youtube)](http://youtu.be/Qrj9BADyonI).
