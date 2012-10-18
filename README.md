@@ -9,7 +9,7 @@ note that it is still buggy and there are some quirks to fix. i develop this in 
 
 ### compiling
 
-the project relies on the [newtonsoft json.net library](http://james.newtonking.com/pages/json-net.aspx) and uses [Console2](http://sourceforge.net/projects/console/) for console emulation.
+the project relies on the [newtonsoft json.net library](http://james.newtonking.com/pages/json-net.aspx) and uses [console2](http://sourceforge.net/projects/console/) for console emulation.
 its currently being developed in visual studio 2010 and has not been tested in any other environment.
 
 ### screenshots
@@ -19,4 +19,4 @@ the settings screen
 
 ### videos
 
-[A short demo video (youtube)](http://youtu.be/Qrj9BADyonI).
+[a short demo video (youtube)](http://youtu.be/Qrj9BADyonI).
